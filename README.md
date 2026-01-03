@@ -18,9 +18,7 @@ https://drive.google.com/file/d/1H0bIVwfjdL6ca1HJOTO-o0m8C8r9dLj6/view?usp=shari
   - Dataset structure
   - Annotation files
   - Trained model weights
-  - Sample inference images with bounding boxes
   - Training and evaluation scripts
-
-- **BD_Taka_finetune.ipynb**  
-  Google Colab notebook for training and fine-tuning
+  - Sample inference images with bounding boxes
+  
 
